@@ -4,6 +4,7 @@ let idade = 29;
 let empresa = "EweTi Tecnologia";
 
 // FORMA NORMAL
+// COMENTARIO ALEATÓRIO
 let user = {
     name: name,
     idade: idade,
